@@ -1,1 +1,3 @@
 Get tyhe User data from the user...
+
+Process the data ang givr the neede out put 
