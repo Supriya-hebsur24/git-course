@@ -1,0 +1,2 @@
+ADD and remove the uysers 
+cross check the users eith tyhe list 
